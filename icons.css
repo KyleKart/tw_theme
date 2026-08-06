@@ -1,3 +1,21 @@
+.categoryBubble,
+.scratchCategoryItemBubble {
+  position: relative;
+}
+
+.categoryBubble::after,
+.scratchCategoryItemBubble::after {
+  content: "";
+  position: absolute;
+  top: 0;
+  left: 0;
+  bottom: 0;
+  right: 0;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
 .scratchCategoryId-motion         .scratchCategoryItemBubble::after { background-image: url('https://raw.githubusercontent.com/KyleKart/tw_theme/main/icons/tw/motion.svg'); }
 .scratchCategoryId-looks          .scratchCategoryItemBubble::after { background-image: url('https://raw.githubusercontent.com/KyleKart/tw_theme/main/icons/tw/looks.svg'); }
 .scratchCategoryId-operators      .scratchCategoryItemBubble::after { background-image: url('https://raw.githubusercontent.com/KyleKart/tw_theme/main/icons/tw/operators.svg'); }

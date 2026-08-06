@@ -1,0 +1,18 @@
+.categoryBubble,
+.scratchCategoryItemBubble {
+    position: relative;
+}
+
+.categoryBubble::after,
+.scratchCategoryItemBubble::after {
+    content: "";
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    width: 20px;
+    height: 20px;
+    transform: translate(-50%, -50%);
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+}

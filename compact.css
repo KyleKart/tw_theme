@@ -1,5 +1,21 @@
 /* Other */
 
+.scratchCategoryItemBubble {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 0;
+  min-height: 1.6rem;
+  padding: 0.75rem;
+  margin: 0 !important;
+  border-radius: 10px;
+  color: #fff;
+  font-weight: 500;
+  font-size: 10px;
+  overflow: visible;
+  line-height: 0;
+}
+
 .scratchCategoryMenuItem {
   display: flex;
   align-items: center;

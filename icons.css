@@ -1,0 +1,61 @@
+/* Scratch */
+.scratchCategoryId-motion         .scratchCategoryItemBubble::after { background-image: url("./icons/tw/motion.svg"); }
+.scratchCategoryId-looks          .scratchCategoryItemBubble::after { background-image: url("./icons/tw/looks.svg"); }
+.scratchCategoryId-operators      .scratchCategoryItemBubble::after { background-image: url("./icons/tw/operators.svg"); }
+.scratchCategoryId-sound          .scratchCategoryItemBubble::after { background-image: url("./icons/tw/sound.svg"); }
+.scratchCategoryId-sensing        .scratchCategoryItemBubble::after { background-image: url("./icons/tw/sensing.svg"); }
+.scratchCategoryId-events         .scratchCategoryItemBubble::after { background-image: url("./icons/tw/events.svg"); }
+.scratchCategoryId-control        .scratchCategoryItemBubble::after { background-image: url("./icons/tw/control.svg"); }
+.scratchCategoryId-variables      .scratchCategoryItemBubble::after { background-image: url("./icons/tw/variables.svg"); }
+.scratchCategoryId-lists          .scratchCategoryItemBubble::after { background-image: url("./icons/tw/lists.svg"); }
+.scratchCategoryId-myBlocks       .scratchCategoryItemBubble::after { background-image: url("./icons/tw/my_blocks.svg"); }
+
+/* Snail-IDE support */
+.scratchCategoryId-effectsCategory .scratchCategoryItemBubble::after { background-image: url("./icons/snail/effects.svg"); }
+
+/* NitroBolt support */
+.scratchCategoryId-comments .scratchCategoryItemBubble::after { background-image: url("./icons/nb/comments.svg"); }
+.scratchCategoryId-json     .scratchCategoryItemBubble::after { background-image: url("./icons/nb/json.svg"); }
+.scratchCategoryId-tables   .scratchCategoryItemBubble::after { background-image: url("./icons/nb/tables.svg"); }
+.scratchCategoryId-assets   .scratchCategoryItemBubble::after { background-image: url("./icons/nb/assets.svg"); }
+
+/* MistWarp support */
+.scratchCategoryId-mwStrings .scratchCategoryItemBubble::after { background-image: url("./icons/ext/strings.svg"); }
+
+/* Unsandboxed support */
+.scratchCategoryId-string .scratchCategoryItemBubble::after { background-image: url("./icons/ext/strings.svg"); }
+.scratchCategoryId-camera .scratchCategoryItemBubble::after { background-image: url("./icons/ext/camera.svg"); }
+
+/* Addons support */
+.scratchCategoryId-a-b .scratchCategoryItemIcon,
+.scratchCategoryId-debugger .scratchCategoryItemIcon {
+    background-color: rgb(41, 190, 184);
+    background-image: url("./icons/addons/debug.svg") !important;
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 20px 20px;
+    border-radius: 10px;
+    height: 1.6rem;
+    width: 1.6rem;
+    overflow: visible;
+    margin: 0 !important;
+}
+
+/* Extensions */
+.scratchCategoryId-strings             .scratchCategoryItemBubble::after { background-image: url("./icons/ext/strings.svg"); }
+.scratchCategoryId-Gamepad             .scratchCategoryItemBubble::after { background-image: url("./icons/ext/gamepad.svg"); }
+.scratchCategoryId-fetch               .scratchCategoryItemBubble::after { background-image: url("./icons/ext/fetch.svg"); }
+.scratchCategoryId-MouseCursor         .scratchCategoryItemBubble::after { background-image: url("./icons/ext/mouse_cursor.svg"); }
+.scratchCategoryId-files               .scratchCategoryItemBubble::after { background-image: url("./icons/ext/files.svg"); }
+.scratchCategoryId-pointerlock         .scratchCategoryItemBubble::after { background-image: url("./icons/ext/mouse_lock.svg"); }
+.scratchCategoryId-stretch             .scratchCategoryItemBubble::after { background-image: url("./icons/ext/stretch.svg"); }
+.scratchCategoryId-runtimeoptions      .scratchCategoryItemBubble::after { background-image: url("./icons/ext/runtime.svg"); }
+.scratchCategoryId-localstorage        .scratchCategoryItemBubble::after { background-image: url("./icons/ext/local.svg"); }
+.scratchCategoryId-skyhigh173BigInt    .scratchCategoryItemBubble::after { background-image: url("./icons/ext/bigint.svg"); }
+.scratchCategoryId-lmsVideo            .scratchCategoryItemBubble::after { background-image: url("./icons/ext/video.svg"); }
+.scratchCategoryId-iframe              .scratchCategoryItemBubble::after { background-image: url("./icons/ext/iframe.svg"); }
+.scratchCategoryId-claytonhtmlencode   .scratchCategoryItemBubble::after { background-image: url("./icons/ext/html_encode.svg"); }
+.scratchCategoryId-xeltallivSimple3D   .scratchCategoryItemBubble::after { background-image: url("./icons/ext/simple_3d.svg"); }
+.scratchCategoryId-lmsSkins            .scratchCategoryItemBubble::after { background-image: url("./icons/ext/skins.svg"); }
+.scratchCategoryId-ddeVectors          .scratchCategoryItemBubble::after { background-image: url("./icons/ext/vectors.svg"); }
+.scratchCategoryId-anessi18n           .scratchCategoryItemBubble::after { background-image: url("./icons/ext/translate.svg"); }

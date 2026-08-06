@@ -87,3 +87,15 @@
 [class*="blocks_blocks_"] .blocklyToolboxDiv {
     width: 60px;
 }
+
+.scratchCategoryId-a-b .scratchCategoryItemIcon, .scratchCategoryId-debugger .scratchCategoryItemIcon {
+  background-color: rgb(41, 190, 184);
+  background-repeat: no-repeat;
+  background-position: center;
+  background-size: 20px 20px;
+  border-radius: 10px;
+  height: 1.6rem;
+  width: 1.6rem;
+  overflow: visible;
+  margin: 0 !important;
+}

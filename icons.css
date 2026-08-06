@@ -25,11 +25,6 @@
 .scratchCategoryId-string .scratchCategoryItemBubble::after { background-image: url('https://raw.githubusercontent.com/KyleKart/tw_theme/main/icons/ext/strings.svg'); }
 .scratchCategoryId-camera .scratchCategoryItemBubble::after { background-image: url('https://raw.githubusercontent.com/KyleKart/tw_theme/main/icons/ext/camera.svg'); }
 
-/* Addons support */
-.scratchCategoryId-a-b .scratchCategoryItemIcon, .scratchCategoryId-debugger .scratchCategoryItemIcon {
-  background-image: url('https://raw.githubusercontent.com/KyleKart/tw_theme/main/icons/addons/debug.svg') !important;
-}
-
 /* Extensions */
 .scratchCategoryId-strings        .scratchCategoryItemBubble::after { background-image: url('https://raw.githubusercontent.com/KyleKart/tw_theme/main/icons/ext/strings.svg'); }
 .scratchCategoryId-Gamepad        .scratchCategoryItemBubble::after { background-image: url('https://raw.githubusercontent.com/KyleKart/tw_theme/main/icons/ext/gamepad.svg'); }

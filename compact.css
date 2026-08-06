@@ -88,8 +88,10 @@
     width: 60px;
 }
 
+/* Addons support */
 .scratchCategoryId-a-b .scratchCategoryItemIcon, .scratchCategoryId-debugger .scratchCategoryItemIcon {
   background-color: rgb(41, 190, 184);
+  background-image: url('https://raw.githubusercontent.com/KyleKart/tw_theme/main/icons/addons/debug.svg') !important;
   background-repeat: no-repeat;
   background-position: center;
   background-size: 20px 20px;
